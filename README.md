@@ -1,4 +1,8 @@
-Edinburgh-based product and engineering leader, ex-GitHub Principal Engineer (#232, 2013), with 18 years of experience reducing developer friction and scaling open-source to tens of millions of users. Delivered 50+ conference talks, published author and writer on engineering, open-source, automation, remote work and Git. Lead product and engineering at Workbrew and Homebrew, with product engineering experience at GitHub (before they had product managers). Early GitHub Copilot reviewer with hands-on experience introducing AI-driven code assistants, reviews and chat tools to improve team velocity. Working on async remote-first international teams since 2009.
+Edinburgh-based product and engineering leader, ex-GitHub Principal Engineer (#232, 2013), with 18 years of experience reducing developer friction and scaling open-source to tens of millions of users
+Published author, writer, and conference speaker (50+ talks) on engineering, open source, automation, remote work, and Git.
+Currently lead product and engineering at Homebrew; previously led at Workbrew, and contributed to product engineering at GitHub (before they had product managers).
+Early GitHub Copilot reviewer with hands-on experience integrating AI-driven coding assistants, review automation, and chat tools to boost team velocity.
+Experienced in async, remote-first international teams since 2009.
 
 ---
 
